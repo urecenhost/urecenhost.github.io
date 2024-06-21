@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://urecenhost.github.io/sitemap
+Sitemap: https://urecenhost.github.io/app/sitemap
+Sitemap: https://urecenhost.github.io/assets/sitemap
+Sitemap: https://urecenhost.github.io/css/sitemap
+Sitemap: https://urecenhost.github.io/includes/sitemap
+Sitemap: https://urecenhost.github.io/item/sitemap
+Sitemap: https://urecenhost.github.io/src/sitemap
